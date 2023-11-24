@@ -1,6 +1,5 @@
 programa
 {
-	inclua biblioteca Util --> u
 	funcao inicio()
 	{
 		inteiro lista[10]
@@ -56,7 +55,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 869; 
+ * @POSICAO-CURSOR = 10; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
